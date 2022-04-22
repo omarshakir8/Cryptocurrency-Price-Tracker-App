@@ -25,5 +25,5 @@ Obtained API from CoinAPI for crypto prices and data, extracted this data, and m
 Have to create user interface to navigate list of crypto, add logos to crypto
 
 #### What problems, if any, have you encountered?
-getting xcode to be able to extract the api data and make it readable was difficult, but several tries and multiple attempts made it work.
+getting xcode to be able to extract the api data and make it readable was difficult, but several tries and multiple attempts made it work. Getting the logos to show up properly was also very time consuming. Currently when opening up the app, when data is captured from api it loads very slowly. The goal is when the data is captured; to cache it so it loads faster.
 
